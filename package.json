@@ -1,0 +1,5 @@
+{
+    "name": "rustworld",
+    "repository" : {"type": "git", "url": "git://github.com/brson/rustworld"},
+    "dependencies": ["temp"]
+}
